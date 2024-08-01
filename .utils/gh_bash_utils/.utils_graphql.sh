@@ -1,0 +1,19 @@
+# check actually visibility similar to GET 
+# # # 
+
+[gh api graphql --paginate -f query='
+  query {
+    viewer {
+      repositories(first: 100) {
+        nodes {
+          nameWithOwner
+          visibility
+        }
+        pageInfo {
+          hasNextPage
+          endCursor
+        }
+      }
+    }
+  }
+' | jq '.data.viewer.repositories.nodes[] |.nameWithOwner + " - " +.visibility'] 
