@@ -182,7 +182,7 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 
 * It's Me 
 
-["I am hated by primates groups with dirty cash,it just the price I have to pay for not being one of them."]
+["I am hated by primates groups,it just the price I have to pay for not being one of them."]
 
 
 ⠀⠀⠀⠀⠀⣠⣴⣶⣿⣿⠿⣷⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣶⣷⠿⣿⣿⣶⣦⣀⠀⠀⠀⠀⠀
